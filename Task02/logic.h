@@ -1,1 +1,3 @@
-﻿int sum_main_and_second_diagonales_elements(int** matrix, int n);
+﻿int sum_main_diagonales_elements(int** matrix, int n);
+int sum_second_diagonales_elements(int** matrix, int n);
+int sum_main_and_second_diagonales_elements(int** matrix, int n);

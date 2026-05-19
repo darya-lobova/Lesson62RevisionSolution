@@ -1,6 +1,5 @@
 #include "logic.h"
 
-
 int main() {
     int* matrix;
     int n, m;
